@@ -1,8 +1,28 @@
 # Ludo Game in Vanilla JavaScript 🚀
 
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+# Ludo Game
 
-#### Demo: https://ludo-js.web.app/
+This is a **Ludo** game built using **Vanilla HTML**, **CSS**, and **JavaScript**. It's a fun and interactive web-based version of the classic board game where you can play with your friends or AI.
+
+## Features
+
+- **Simple UI**: A user-friendly interface with a classic Ludo game board.
+- **Multiplayer Support**: Play with up to 4 players (supports 2, 3, or 4 players).
+- **AI Opponent**: Play against a basic AI opponent if you don’t have other players.
+- **Responsive Design**: The game is fully responsive, working on desktops, tablets, and mobile devices.
+- **Interactive Gameplay**: Roll dice, move pieces, and enjoy the classic Ludo experience.
+
+## Prerequisites
+
+No installation is required. You just need a browser to play the game.
+
+## Installation
+
+1. Clone the repository or download the ZIP file:
+
+   ```bash
+   git clone <repository-url>
+
 
 
 ![ludo](https://github.com/sohail-js/ludo-js/blob/master/ludo/ludo-bg.jpg?raw=true)
